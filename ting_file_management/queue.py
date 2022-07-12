@@ -1,6 +1,3 @@
-from queue import Empty
-
-
 class Queue:
     def __init__(self):
         self._data = list()
@@ -25,4 +22,3 @@ class Queue:
 
         value = self._data[index]
         return value
-
