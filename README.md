@@ -51,3 +51,5 @@ Projeto em Python que simula um programa com um algoritmo de indexação de docu
   O arquivo `dev-requirements.txt` contém todas as dependências que serão utilizadas no projeto, ele está agindo como se fosse um `package.json` de um projeto `Node.js`.
 
 # Autor:
+
+- Linkedin: https://www.linkedin.com/in/guilherme-le%C3%A3o-dev/
