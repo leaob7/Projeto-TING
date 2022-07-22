@@ -1,6 +1,6 @@
 # Projeto TING
 
-Neste projeto que simula um programa com um algoritmo de indexação de documentos similar ao do Google.
+Projeto em Python que simula um programa com um algoritmo de indexação de documentos similar ao do Google.
 
 # Habilidades utilizadas:
 
